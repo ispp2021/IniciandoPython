@@ -1,56 +1,58 @@
-# HeadstartPython
-Learn Python Fast With Jupiter Notebook
+# INICIANDO CON PYTHON
+Aprenda Python rapidaente con Jupiter Notebook
 
-# Table of content
+
+# Tabla de contenido
 
 [1.Variables](https://github.com/ajaytech/headstartPython/blob/master/01.ipynb)
 
-[2.Print Statement](https://github.com/ajaytech/headstartPython/blob/master/02.ipynb)
+[2.Sentencia Print](https://github.com/ajaytech/headstartPython/blob/master/02.ipynb)
 
-[3.Data Structure](https://github.com/ajaytech/headstartPython/blob/master/03.ipynb)
+[3.Estructuras de datos](https://github.com/ajaytech/headstartPython/blob/master/03.ipynb)
 
-[4.String](https://github.com/ajaytech/headstartPython/blob/master/04.ipynb)
+[4.Cadenas de texto](https://github.com/ajaytech/headstartPython/blob/master/04.ipynb)
 
-[5.Control Flow Statements](https://github.com/ajaytech/headstartPython/blob/master/05.ipynb)
+[5.Control de flujo](https://github.com/ajaytech/headstartPython/blob/master/05.ipynb)
 
-[6.Functions](https://github.com/ajaytech/headstartPython/blob/master/06.ipynb)
+[6.Funciones](https://github.com/ajaytech/headstartPython/blob/master/06.ipynb)
 
-[7.Classes](https://github.com/ajaytech/headstartPython/blob/master/07.ipynb)
+[7.Clases](https://github.com/ajaytech/headstartPython/blob/master/07.ipynb)
 
-[8.Regex by Rex Dwyer](https://github.com/ajaytech/headstartPython/blob/master/08.ipynb)
+[8.Expresiones regulares Regex](https://github.com/ajaytech/headstartPython/blob/master/08.ipynb)
 
-# Kick-off
+# Empezando...
 
-Python is a modern, robust, high level programming language. It is very easy to pick up even if you are completely new to programming.
+Python es un lenguaje de programacion, moderno, robusto de alto nivel de programacion. es muy facil aprenderlo incluso si no sabes nada de programacion.
 
-We would be using Jupyter Notebook, sometimes also refered as IPython.
-IPython is the Python backend to the Jupyter Notebook, which is also known as the kernel, which is an interactive Python shell.
+Utilizaremos Jupyter Notebook, algunas veces llamado IPython.
+IPython es el motor Python para Jupyter Notebook, El cual es tambien conocido como kernel, es un shell de Python interactivo.
 
-# Installation
+# Instalacion.
 
-Mac OS X and Linux comes pre installed with python. 
-Windows users can download python from https://www.python.org/downloads/ .
+Mac OS X y Linux vienen con Python pre instalado.
+Los usuarios de Windows pueden descargar Python de https://www.python.org/downloads/ .
 
-# To install IPython run,
+# Para instalar IPython ejecute.
 ```
 $ pip install ipython[all]
 ```
-This will install all the necessary dependencies for the notebook, qtconsole, tests etc.
+Esto instalara todas las dependencias necesarias para los notebooks, qtconsole, tests, etc.
 
-# Installation from unofficial distributions
+# Instalacion de distribuciones no oficiales.
 
-Installing all the necessary libraries might prove troublesome. Anaconda and Canopy comes pre packaged with all the necessary python libraries and also IPython.
+Instalar todas las bibliotecas necesarias puede resultar problemático. Anaconda y Canopy vienen empaquetados con todas las bibliotecas de Python necesarias y también IPython.
 
-# Anaconda
+# Anaconda.
 
-Download Anaconda from [here](https://www.anaconda.com/download/)
+Descargue Anaconda desde [here](https://www.anaconda.com/download/)
 
-Anaconda is completely free and includes more than 300 python packages. Both python 2.7 and 3.4 options are available.
-We would be utilizing the Jupiter Notebook for our learning purpose. 
+Anaconda es completamente gratuito e incluye mas de 300 paquetes de Python. tiene disponibles Python 2.7 y 3.4.
+Utilizaremos Jupiter Notebook para nuestro aprendizaje, junto a Pytnon 3.
 
-# To Launch Jupiter From the terminal
+# Lanzar Jupiter desde el terminal.
 
-The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.
+
+Jupyter Notebook es una aplicacion web open-source que permite crear y compartir documentos que contienen codigo "live code", ecuaciones, visualizaciones y texto descriptivo. sus usos incluyen: Extraccion de datos, Limpieza de datos y transformacion, simulacion numerica, modelado estadistico, machine learning y muchas otras aplicaciones.
 
 ```
 jupyter notebook
